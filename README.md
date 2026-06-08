@@ -10,7 +10,7 @@ A personal reference site created during ttp to collect essential Git commands, 
 
 ## Live Site
 
-[deployed site]
+https://musaddikchoudhury.github.io/developer-field-notes/
 
 
 
