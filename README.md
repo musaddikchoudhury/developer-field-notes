@@ -72,3 +72,10 @@ C:\Users\musad\developer-field-notes>git branch --all
   remotes/origin/feature/responsive-styling
   remotes/origin/feature/safety-section
   remotes/origin/main
+```
+
+## Screenshot 
+
+Desktop and Mobile View:
+
+<img width="1473" height="772" alt="Screenshot 2026-06-08 153509" src="https://github.com/user-attachments/assets/0f653493-8391-4f44-b033-134ace6fa7c6" />
