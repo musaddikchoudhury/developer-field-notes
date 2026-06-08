@@ -76,10 +76,6 @@ C:\Users\musad\developer-field-notes>git branch --all
 
 ## Screenshot 
 
-Desktop view: 
-<img width="1389" height="884" alt="Screenshot 2026-06-08 151932" src="https://github.com/user-attachments/assets/4ef6c75b-8ab7-4971-b1eb-30396a206c2f" />
+Desktop and Mobile View:
 
-Mobile view:
-<img width="339" height="785" alt="Screenshot 2026-06-08 151346" src="https://github.com/user-attachments/assets/f1c8b735-e639-42f2-ba70-ed8d34176d97" />
-
-
+<img width="1473" height="772" alt="Screenshot 2026-06-08 153509" src="https://github.com/user-attachments/assets/0f653493-8391-4f44-b033-134ace6fa7c6" />
